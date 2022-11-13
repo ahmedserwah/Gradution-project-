@@ -1,2 +1,4 @@
 # Gradution-project-
-this repo will be updated regularly
+## cohort analysis 
+## RFM analysis 
+## clustring K-MEANS
